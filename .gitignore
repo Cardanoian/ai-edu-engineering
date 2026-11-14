@@ -1,0 +1,5 @@
+# oh-my-claudecode 작업 상태 (프로젝트 스킬만 커밋함)
+.omc/*
+!.omc/skills/
+
+__pycache__/
